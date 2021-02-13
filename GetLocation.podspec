@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'GetLocation'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of GetLocation.'
+  s.summary          = 'This project will use for get user’s current location.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,8 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+'This project will use for get user’s current location.Import GetLocation and create global object of LocationController class call function of get location e.g.  object.getUserCurrentLocation { [self] (error, location) in "Your code here" }'
 
   s.homepage         = 'https://github.com/tejasdthanki/GetLocation'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -31,6 +30,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '13.0'
 
   s.source_files = 'GetLocation/Classes/**/*'
+  s.swift_version = '5.0'
   
   # s.resource_bundles = {
   #   'GetLocation' => ['GetLocation/Assets/*.png']
