@@ -1,0 +1,16 @@
+PODS:
+  - GetLocation (0.1.0)
+
+DEPENDENCIES:
+  - GetLocation (from `../`)
+
+EXTERNAL SOURCES:
+  GetLocation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GetLocation: 32bb7ee5b4fef7a13ed8e70096d477096b7bb51d
+
+PODFILE CHECKSUM: 162557eb0b42a3476c29d685242a88155aede8e0
+
+COCOAPODS: 1.10.1

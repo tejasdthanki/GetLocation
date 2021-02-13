@@ -1,0 +1,6 @@
+framework module GetLocation {
+  umbrella header "GetLocation-umbrella.h"
+
+  export *
+  module * { export * }
+}

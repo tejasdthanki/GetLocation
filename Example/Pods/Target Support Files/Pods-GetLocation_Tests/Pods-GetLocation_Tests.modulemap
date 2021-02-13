@@ -1,0 +1,6 @@
+framework module Pods_GetLocation_Tests {
+  umbrella header "Pods-GetLocation_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

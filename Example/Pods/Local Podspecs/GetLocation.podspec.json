@@ -1,0 +1,22 @@
+{
+  "name": "GetLocation",
+  "version": "0.1.0",
+  "summary": "A short description of GetLocation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tejasdthanki/GetLocation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tejasdthanki": "tejasdthanki@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/tejasdthanki/GetLocation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GetLocation/Classes/**/*"
+}
